@@ -76,3 +76,22 @@ nav a:hover {
     grid-template-columns: 1fr 1fr 1fr;
     gap: 20px;
 }
+
+.card {
+    border: 1px solid #E2E8F0;
+    border-radius: 5px;
+    box-shadow: 2px 2px 5px lightgray;
+}
+
+.card img {
+    width: 100%;
+}
+
+.card-body {
+    padding: 15px;
+}
+
+.card-body h3 {
+    color: #48BB78;
+    font-size: 21px;
+}
