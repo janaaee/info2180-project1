@@ -43,3 +43,21 @@ nav a {
 nav a:hover {
     color: #5A67D8;
 }
+
+.overview-hero {
+    background-color: #E2E8F0;
+    padding: 40px 0;
+}
+
+.overview-hero .container {
+    display: flex;
+    align-items: center;
+}
+
+.overview-hero-image {
+    width: 50%;
+}
+
+.overview-hero-text {
+    width: 50%;
+}
