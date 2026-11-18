@@ -95,3 +95,28 @@ nav a:hover {
     color: #48BB78;
     font-size: 21px;
 }
+
+.testing {
+    background-color: #4A5568;
+    color: white;
+    padding: 40px 0;
+}
+
+.testing .container {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.testing-desciption {
+    width: 70%;
+}
+
+.testing .btn {
+    display: inline-block;
+    background-color: #48BB78;
+    color: white;
+    border-radius: 5px;
+    padding: 10px 30px;
+    text-decoration: none;
+}
