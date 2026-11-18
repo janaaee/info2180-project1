@@ -33,3 +33,13 @@ nav ul {
 nav li {
     margin-left: 20px;
 }
+
+nav a {
+    color: #6b7280;
+    font-size: 18px;
+    text-decoration: none;
+}
+
+nav a:hover {
+    color: #5A67D8;
+}
