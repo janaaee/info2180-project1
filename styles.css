@@ -120,3 +120,31 @@ nav a:hover {
     padding: 10px 30px;
     text-decoration: none;
 }
+
+.stories {
+    padding: 40px 0;
+}
+
+.stories h2 {
+    color: #5A67D8;
+}
+
+.stories article {
+    display: flex;
+    margin-bottom: 25px;
+}
+
+.stories img {
+    width: 150px;
+    height: 150px;
+    border-radius: 50%;
+    margin-right: 25px;
+}
+
+.article-body h3 {
+    font-size: 18px;
+}
+
+.article-body a {
+    color: #5A67D8;
+}
